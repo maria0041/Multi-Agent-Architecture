@@ -10,7 +10,7 @@ The **Multi-Agent Framework for Problem Solving** is an advanced system that sys
 - **Collaborative Coordination**: Seamless communication between agents facilitates improved problem-solving.
 
 ## System Workflow
-![Multi-Agent Architecture](images/architecture.png)
+![Multi-Agent Architecture](architecture.png)
 
 ### 1. Problem Definer Agent
 - Engages with the user to clarify objectives through iterative questioning.
